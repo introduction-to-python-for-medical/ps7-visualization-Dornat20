@@ -1,1 +1,3 @@
-
+The correlations observed (as shown in the correlation_matrix file), suggest that there's no medium/strong connections between any 2 of the chosen parameters.
+All variables are in range from -0.3 to 0.3, suggesting weak negative/positive connections.
+Thus, our only conclusion from this analysis is that our data suggests the parameters don't impact each other significantly.
